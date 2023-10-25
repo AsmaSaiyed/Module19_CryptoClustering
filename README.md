@@ -1,4 +1,4 @@
-b# CryptoClustering Unsupervised Learning
+# CryptoClustering Unsupervised Learning
 
 ## Instructions
 1. Rename the Crypto_Clustering_starter_code.ipynb file as Crypto_Clustering.ipynb.
